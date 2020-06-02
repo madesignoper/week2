@@ -1,0 +1,31 @@
+/* 이 파일은 건들지 말아주세요!! */
+header {
+	margin-bottom: 50px;
+	border: 5px solid skyblue;
+}
+
+nav {
+	margin: 20px;
+	border: 5px solid lightcoral;
+}
+
+main {
+	margin-bottom: 50px;
+	border: 5px solid skyblue;
+}
+
+section {
+	margin: 20px;
+	border: 5px solid lightcoral;
+}
+
+article {
+	margin: 20px;
+	border: 5px solid lightgreen;
+}
+
+footer {
+	padding: 25px;
+	margin-bottom: 50px;
+	border: 5px solid skyblue;
+}
